@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+*.yak
+*.gha
+*.ghpy
+*.ghlink
+
+# Rhino / Grasshopper backups
+*.3dmbak
+*.ghx
+backup/
+*.bak
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+*.swp

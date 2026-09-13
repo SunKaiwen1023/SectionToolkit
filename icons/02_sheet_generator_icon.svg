@@ -1,0 +1,32 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0pt 0pt 24pt 24pt" fill-dark="#FFF" stroke-dark="none">
+  <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <style>
+      .cls-1, .cls-2 {
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: #c0504d;
+      }
+
+      .cls-3 {
+        stroke-width: 1px;
+      }
+    </style>
+    </defs>
+    <rect class="cls-4" width="24" height="24" rx="5" ry="5" xmlns="http://www.w3.org/2000/svg" />
+    <rect class="cls-3" x="7" y="5.5" width="10" height="13" rx=".5" ry=".5" xmlns="http://www.w3.org/2000/svg" />
+    <rect class="cls-1" x="8.75" y="7.5" width="6.5" height="6" xmlns="http://www.w3.org/2000/svg" />
+    <line class="cls-2" x1="8.75" y1="15.5" x2="15.25" y2="15.5" xmlns="http://www.w3.org/2000/svg" />
+  </svg>
+</svg>
