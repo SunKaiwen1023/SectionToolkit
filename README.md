@@ -15,7 +15,7 @@ parametric workflow that updates as the model changes.
 
 [![Watch the SectionToolkit demo on YouTube](https://img.youtube.com/vi/E5vQ_qrTCm8/maxresdefault.jpg)](https://www.youtube.com/watch?v=E5vQ_qrTCm8)
 
-A 12-minute walkthrough: install, cut sections, generate sheets, add a key plan, and export to PDF.
+A 6-minute walkthrough: install, cut sections, generate sheets, add a key plan, and export to PDF.
 
 ## Features
 
